@@ -85,9 +85,11 @@
     <h1><u>Contact</u></h1>
 </br>
   
-  <img src="ressource\svg\social\gmail.svg" alt="QT" style="vertical-align:top; margin:4px">
-  <img src="ressource\svg\social\linkedin.svg" alt="QT" style="vertical-align:top; margin:4px">
-  <img src="ressource\svg\social\twitter.svg" alt="QT" style="vertical-align:top; margin:4px">
+  [<img src="ressource\svg\social\gmail.svg" alt="QT" style="vertical-align:top; margin:4px">](mailto:matthieu.basto@gmail.com)
+  [<img src="ressource\svg\social\linkedin.svg" alt="QT" style="vertical-align:top; margin:4px">](https://www.linkedin.com/in/matthieu-basto-111a85159)
+<!-- 
+[<img src="ressource\svg\social\twitter.svg" alt="QT" style="vertical-align:top; margin:4px">]()
+-->  
 
 <br>
 </br>
