@@ -17,7 +17,7 @@
 </div> -->
 
 <div align="center">
-  <h3> 👨‍💻 BASTO Matthieu | 💻 Robotic engineer | 🌍 France , Strasbourg </h3>
+  <h3> 👨‍💻 BASTO Matthieu | 💻 Robotic engineer | 🌍 France , Toulouse </h3>
 </div>
 
 <br>
