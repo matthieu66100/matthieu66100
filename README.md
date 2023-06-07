@@ -61,11 +61,11 @@
 <p align="center">
   <img src="ressource\svg\dev\misc\iot.svg" alt="IoT" style="vertical-align:top; margin:4px">
   <img src="ressource\svg\dev\tools\bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="ressource\svg\dev\tools\jetbrains_clion.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="ressource\svg\dev\tools\jetbrains_pycharm.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="ressource\svg\dev\tools\visualstudio_code.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="ressource\svg\dev\tools\visualstudio.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="ressource\svg\devices\raspberrypi.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="ressource\svg\dev\tools\jetbrains_clion.svg" alt="jetbrains_clion" style="vertical-align:top; margin:4px">
+  <img src="ressource\svg\dev\tools\jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:4px">
+  <img src="ressource\svg\dev\tools\visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px">
+  <img src="ressource\svg\dev\tools\visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px">
+  <img src="ressource\svg\devices\raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:4px">
   <!-- Linux, Windows -->
 </p>
 <br />
@@ -85,8 +85,8 @@
     <h1><u>Contact</u></h1>
 </br>
   
-  [<img src="ressource\svg\social\gmail.svg" alt="QT" style="vertical-align:top; margin:4px">](mailto:matthieu.basto@gmail.com)
-  [<img src="ressource\svg\social\linkedin.svg" alt="QT" style="vertical-align:top; margin:4px">](https://www.linkedin.com/in/matthieu-basto-111a85159)
+  [<img src="ressource\svg\social\gmail.svg" alt="Gmail" style="vertical-align:top; margin:4px">](mailto:matthieu.basto@gmail.com)
+  [<img src="ressource\svg\social\linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">](https://www.linkedin.com/in/matthieu-basto-111a85159)
 <!-- 
 [<img src="ressource\svg\social\twitter.svg" alt="QT" style="vertical-align:top; margin:4px">]()
 -->  
