@@ -27,7 +27,7 @@
 
 <img align="right"  alt="cat doing beep boop, with a computer" src="ressource\img\bipboop.jpg"/>
 <p align="center">
-  <h3> I'm 26 years old, Robotic engineer from France.</h3>
+  <h3> I'm 27 years old, Robotic engineer from France.</h3>
 </p>
 
  - 👨‍🎓 Graduated in Computer Sciences and Robotic 
